@@ -25,7 +25,7 @@ fare:
   stationAPI: ${STATION_API:http://localhost:8081/api/master-files/stations}
   rate: 2
   table: |-
-   [{ "station": "南港"  ,"nak":"-","tpe":"-","bac":"-","tay":"-","hsc":"-","mil":"-","tac":"-","cha":"-","yul":"-","chy":"-","tan":"-","zuy":"-"},
+   [{ "station": "南港"  ,"nak":"-","tpe":"-","bac":"-","tay":"-","hsc":"-","mil":"-","tac":"-","cha":"-","yul":"-","chy":"-","tan":"-","ezuy":"-"},
    { "station": "台北"   ,"nak":"40","tpe":"-","bac":"-","tay":"-","hsc":"-","mil":"-","tac":"-","cha":"-","yul":"-","chy":"-","tan":"-","zuy":"-"},
    { "station": "板橋"   ,"nak":"70","tpe":"40","bac":"-","tay":"-","hsc":"-","mil":"-","tac":"-","cha":"-","yul":"-","chy":"-","tan":"-","zuy":"-"},
    { "station": "桃園"   ,"nak":"200","tpe":"160","bac":"130","tay":"-","hsc":"-","mil":"-","tac":"-","cha":"-","yul":"-","chy":"-","tan":"-","zuy":"-"},
